@@ -1,2 +1,2 @@
 # CIS-189
-Python
+Python is great!
